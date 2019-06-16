@@ -1,0 +1,27 @@
+/* 	DEFINIÇÕES DE HOME */
+
+
+#menu{
+	float: right;
+	padding: 10px 0;
+}
+
+.feed{
+	margin-top: 5px;
+	margin-bottom: 50px;
+}
+
+.orange{
+	color: #FFFFFF;
+	background-color: #FF4500;
+}
+
+.textorange{
+	color: #FF4500;
+}
+
+body{
+  font-family: 'Aladin'  ;
+  background-color: #fefefe;
+  font-size: 16px;
+}
