@@ -20,6 +20,10 @@
 	color: #FF4500;
 }
 
+.textSize{
+	font-size: 20px;
+}
+
 body{
   font-family: 'Aladin'  ;
   background-color: #fefefe;
