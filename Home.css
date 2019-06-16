@@ -24,6 +24,10 @@
 	font-size: 20px;
 }
 
+.bgGray{
+	background-color: #708090;
+}
+
 body{
   font-family: 'Aladin'  ;
   background-color: #fefefe;
